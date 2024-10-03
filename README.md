@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dvuh4fz9d/image/upload/v1657795778/shop_cuojbm.ico" height="180" width="220" alt="logo"/>
 
-# 🌱 Agrinova 🛒
+# 🌱 AgrinovaHub 🛒
 
 ### An E-Commerce App for Buying Agro-Products.
 
